@@ -44,7 +44,7 @@
 *.VC.db
 *.VC.opendb
 /Content/StarterContent/
-/Content/BattleGround_Hi.umap
+/Content/levels/
 
 # Precompiled Assets
 SourceArt/**/*.png
