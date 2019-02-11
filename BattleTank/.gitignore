@@ -43,6 +43,8 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+/Content/StarterContent/
+/Content/BattleGround_Hi.umap
 
 # Precompiled Assets
 SourceArt/**/*.png
